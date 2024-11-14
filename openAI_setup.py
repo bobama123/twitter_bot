@@ -16,7 +16,7 @@ def generate_tweet():
             {"role": "system", "content": "You are a twitter bot."},
             {
                 "role": "user",
-                "content": "Write a funny random tweet."
+                "content": "Write a random tweet about tech."
             }
         ]
     )
